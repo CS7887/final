@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: rgba(80, 134, 192, 0.666);
+}
+li {font-weight: bold;
+}
+.unbold {
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+}
